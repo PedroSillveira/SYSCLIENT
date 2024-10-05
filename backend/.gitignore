@@ -1,0 +1,4 @@
+node_modules
+# Keep environment variables out of version control
+.env
+# https://www.youtube.com/watch?v=XuTfN_84rcU&t=754s&ab_channel=Sujeitoprogramador video 01 - parei 38:20 min
